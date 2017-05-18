@@ -1,3 +1,4 @@
 金额哦哦几点飞机飞机
 function
 bug001
+bug002
